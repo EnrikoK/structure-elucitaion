@@ -9,7 +9,7 @@ Based on the individual images, the .mol file was queried from https://bmrb.io/f
 folder structure example
 
 ```
-images/
+datasaet/
   (2D-HMBC)_structure_name/
     (2D-HMBC)_structure_name.png
     structure.mol
