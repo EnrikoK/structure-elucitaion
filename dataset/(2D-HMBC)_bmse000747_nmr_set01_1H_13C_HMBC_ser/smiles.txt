@@ -1,0 +1,1 @@
+CC(=O)Nc1c(I)c(C(=O)N[C@@H]2[C@@H](O)[C@H](O)[C@@H](CO)O[C@@H]2O)c(I)c(N(C)C(C)=O)c1I

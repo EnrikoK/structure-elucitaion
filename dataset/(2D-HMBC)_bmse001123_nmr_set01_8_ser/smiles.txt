@@ -1,0 +1,1 @@
+CC(=CCO)CCC[C@@H](C)CCC[C@H](C)CCCC(C)C
