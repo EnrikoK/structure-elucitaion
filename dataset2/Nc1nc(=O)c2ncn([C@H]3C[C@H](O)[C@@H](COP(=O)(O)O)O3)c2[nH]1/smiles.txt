@@ -1,0 +1,1 @@
+Nc1nc(=O)c2ncn([C@H]3C[C@H](O)[C@@H](COP(=O)(O)O)O3)c2[nH]1

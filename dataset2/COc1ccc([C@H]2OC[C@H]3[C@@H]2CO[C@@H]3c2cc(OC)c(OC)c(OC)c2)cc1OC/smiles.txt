@@ -1,0 +1,1 @@
+COc1ccc([C@H]2OC[C@H]3[C@@H]2CO[C@@H]3c2cc(OC)c(OC)c(OC)c2)cc1OC

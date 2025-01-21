@@ -1,0 +1,1 @@
+CO[C@H]1[C@@H](O)[C@@H](C)O[C@H](O[C@H]2[C@H](Oc3cccc4c(O)c5c(=O)oc6ccc(C)c7c(=O)oc(c34)c5c67)O[C@H](C)[C@H](O)[C@@H]2O)[C@@H]1O

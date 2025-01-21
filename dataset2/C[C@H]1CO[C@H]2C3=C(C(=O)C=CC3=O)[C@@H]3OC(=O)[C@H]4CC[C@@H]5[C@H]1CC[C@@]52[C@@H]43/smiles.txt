@@ -1,0 +1,1 @@
+C[C@H]1CO[C@H]2C3=C(C(=O)C=CC3=O)[C@@H]3OC(=O)[C@H]4CC[C@@H]5[C@H]1CC[C@@]52[C@@H]43

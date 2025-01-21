@@ -1,0 +1,1 @@
+C[C@]1(C(=O)O)CCC[C@]2(C)c3cc(O)ccc3CC[C@@H]12

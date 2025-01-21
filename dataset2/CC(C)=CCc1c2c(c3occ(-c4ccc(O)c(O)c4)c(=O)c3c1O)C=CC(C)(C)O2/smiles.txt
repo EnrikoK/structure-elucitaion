@@ -1,0 +1,1 @@
+CC(C)=CCc1c2c(c3occ(-c4ccc(O)c(O)c4)c(=O)c3c1O)C=CC(C)(C)O2

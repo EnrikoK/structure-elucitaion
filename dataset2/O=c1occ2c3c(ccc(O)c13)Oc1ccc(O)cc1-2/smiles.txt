@@ -1,0 +1,1 @@
+O=c1occ2c3c(ccc(O)c13)Oc1ccc(O)cc1-2

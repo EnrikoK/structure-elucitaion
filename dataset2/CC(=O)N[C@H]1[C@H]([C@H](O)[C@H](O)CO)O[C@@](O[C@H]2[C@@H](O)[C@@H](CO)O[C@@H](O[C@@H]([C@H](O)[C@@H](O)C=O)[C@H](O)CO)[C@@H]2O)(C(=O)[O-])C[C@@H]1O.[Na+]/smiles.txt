@@ -1,0 +1,1 @@
+CC(=O)N[C@H]1[C@H]([C@H](O)[C@H](O)CO)O[C@@](O[C@H]2[C@@H](O)[C@@H](CO)O[C@@H](O[C@@H]([C@H](O)[C@@H](O)C=O)[C@H](O)CO)[C@@H]2O)(C(=O)[O-])C[C@@H]1O.[Na+]
